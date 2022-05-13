@@ -3041,6 +3041,7 @@ li.mega-drop-down {
 .miwelo_maildol_pricing-table td {
     font-size: 14px;
     text-transform: capitalize;
+    padding: 10px 20px;
 }
 .mm_country-selector {
     border: none;
